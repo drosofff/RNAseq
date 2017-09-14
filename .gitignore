@@ -1,0 +1,6 @@
+.DS_Store
+.tox
+*.pyc
+.*.log
+.idea/*
+.git/*
